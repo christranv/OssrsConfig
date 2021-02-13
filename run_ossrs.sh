@@ -1,4 +1,4 @@
-FILE_NAME="hls.conf"
+FILE_NAME="main.conf"
 if [ -n "$1" ];
 then
 	FILE_NAME=$1
